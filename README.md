@@ -1,15 +1,16 @@
-# 按搜索原话写的短文
+# 公司资料找不到、到期没人提醒
 
-每篇只回答一个具体问法。页面在 [fujiezee.github.io/longtail-keywords](https://fujiezee.github.io/longtail-keywords/)。
+每篇只回答一个问法：文件要在群里问、新人问十遍、合同和证书到期、人走经验断、迎检、样本和校准、报了没人跟、门店和年检。页面在 [fujiezee.github.io/longtail-keywords](https://fujiezee.github.io/longtail-keywords/)。
 
 | 问法 | 文章 |
 | --- | --- |
-| 长尾词是什么意思 | [what-is-a-long-tail-keyword](https://fujiezee.github.io/longtail-keywords/what-is-a-long-tail-keyword/) |
-| 长尾词和关键词有什么区别 | [long-tail-vs-keywords](https://fujiezee.github.io/longtail-keywords/long-tail-vs-keywords/) |
-| 长尾词怎么免费挖掘 | [find-long-tail-keywords-free](https://fujiezee.github.io/longtail-keywords/find-long-tail-keywords-free/) |
-| 企业知识库怎么搭建 | [build-a-company-knowledge-base](https://fujiezee.github.io/longtail-keywords/build-a-company-knowledge-base/) |
-| 企业知识库哪个好用 | [how-to-choose-a-company-knowledge-base](https://fujiezee.github.io/longtail-keywords/how-to-choose-a-company-knowledge-base/) |
-| 员工找不到公司资料怎么办 | [employees-cant-find-company-files](https://fujiezee.github.io/longtail-keywords/employees-cant-find-company-files/) |
-| Glean alternatives | [glean-alternatives](https://fujiezee.github.io/longtail-keywords/glean-alternatives/) |
-
-问法来自搜索框的公开联想，例如「长尾词是什么意思」「长尾词和关键词的区别」「企业知识库怎么搭建」「企业知识库哪个好用」「员工找不到公司资料怎么办」「glean alternatives」。正文是对这些问法的回答，不是词表。
+| 公司文件找不到，总在群里问怎么办 | [ask-in-the-group-chat](https://fujiezee.github.io/longtail-keywords/ask-in-the-group-chat/) |
+| 新员工入职老是问同样的问题怎么办 | [new-hire-same-questions](https://fujiezee.github.io/longtail-keywords/new-hire-same-questions/) |
+| 合同到期、证书过期，没人提醒怎么办 | [contract-certificate-expiry](https://fujiezee.github.io/longtail-keywords/contract-certificate-expiry/) |
+| 员工离职后，经验和资料怎么留下 | [employee-leaves-knowledge](https://fujiezee.github.io/longtail-keywords/employee-leaves-knowledge/) |
+| 迎检前材料怎么一次找齐 | [audit-records](https://fujiezee.github.io/longtail-keywords/audit-records/) |
+| 实验室样本保存期超了怎么办 | [lab-sample-expiry](https://fujiezee.github.io/longtail-keywords/lab-sample-expiry/) |
+| 设备校准到期总是临时发现怎么办 | [calibration-due](https://fujiezee.github.io/longtail-keywords/calibration-due/) |
+| 报了的问题没人跟进怎么办 | [nobody-follows-up](https://fujiezee.github.io/longtail-keywords/nobody-follows-up/) |
+| 门店天天问总部同样的问题怎么办 | [store-asks-headquarters](https://fujiezee.github.io/longtail-keywords/store-asks-headquarters/) |
+| 货车年检、证照到期怎么提前知道 | [vehicle-inspection-due](https://fujiezee.github.io/longtail-keywords/vehicle-inspection-due/) |
