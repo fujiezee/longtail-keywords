@@ -1,16 +1,18 @@
-# 公司资料找不到、到期没人提醒
+# 企业会搜的那些事
 
-每篇只回答一个问法：文件要在群里问、新人问十遍、合同和证书到期、人走经验断、迎检、样本和校准、报了没人跟、门店和年检。页面在 [fujiezee.github.io/longtail-keywords](https://fujiezee.github.io/longtail-keywords/)。
+标题用的是企业会打进搜索框的短句。页面在 [fujiezee.github.io/longtail-keywords](https://fujiezee.github.io/longtail-keywords/)。
 
-| 问法 | 文章 |
+| 会搜的话 | 文章 |
 | --- | --- |
-| 公司文件找不到，总在群里问怎么办 | [ask-in-the-group-chat](https://fujiezee.github.io/longtail-keywords/ask-in-the-group-chat/) |
-| 新员工入职老是问同样的问题怎么办 | [new-hire-same-questions](https://fujiezee.github.io/longtail-keywords/new-hire-same-questions/) |
-| 合同到期、证书过期，没人提醒怎么办 | [contract-certificate-expiry](https://fujiezee.github.io/longtail-keywords/contract-certificate-expiry/) |
-| 员工离职后，经验和资料怎么留下 | [employee-leaves-knowledge](https://fujiezee.github.io/longtail-keywords/employee-leaves-knowledge/) |
-| 迎检前材料怎么一次找齐 | [audit-records](https://fujiezee.github.io/longtail-keywords/audit-records/) |
-| 实验室样本保存期超了怎么办 | [lab-sample-expiry](https://fujiezee.github.io/longtail-keywords/lab-sample-expiry/) |
-| 设备校准到期总是临时发现怎么办 | [calibration-due](https://fujiezee.github.io/longtail-keywords/calibration-due/) |
-| 报了的问题没人跟进怎么办 | [nobody-follows-up](https://fujiezee.github.io/longtail-keywords/nobody-follows-up/) |
-| 门店天天问总部同样的问题怎么办 | [store-asks-headquarters](https://fujiezee.github.io/longtail-keywords/store-asks-headquarters/) |
-| 货车年检、证照到期怎么提前知道 | [vehicle-inspection-due](https://fujiezee.github.io/longtail-keywords/vehicle-inspection-due/) |
+| 公司文档太多找不到怎么办 | [company-docs-cant-find](https://fujiezee.github.io/longtail-keywords/company-docs-cant-find/) |
+| 企业知识库怎么搭建 | [knowledge-base-setup](https://fujiezee.github.io/longtail-keywords/knowledge-base-setup/) |
+| 员工手册最新版在哪 | [employee-handbook](https://fujiezee.github.io/longtail-keywords/employee-handbook/) |
+| 新员工入职要准备哪些材料 | [new-hire-materials](https://fujiezee.github.io/longtail-keywords/new-hire-materials/) |
+| 劳动合同到期怎么续签 | [labor-contract-renewal](https://fujiezee.github.io/longtail-keywords/labor-contract-renewal/) |
+| 合同到期提醒怎么做 | [contract-expiry-reminder](https://fujiezee.github.io/longtail-keywords/contract-expiry-reminder/) |
+| 离职交接清单怎么写 | [offboarding-checklist](https://fujiezee.github.io/longtail-keywords/offboarding-checklist/) |
+| 仪器校准过期了还能用吗 | [calibration-expired](https://fujiezee.github.io/longtail-keywords/calibration-expired/) |
+| 样本保存期限怎么定 | [sample-retention](https://fujiezee.github.io/longtail-keywords/sample-retention/) |
+| 迎审材料怎么准备 | [audit-materials](https://fujiezee.github.io/longtail-keywords/audit-materials/) |
+| 货车年检需要什么材料 | [truck-inspection](https://fujiezee.github.io/longtail-keywords/truck-inspection/) |
+| 设备保养周期怎么定 | [maintenance-cycle](https://fujiezee.github.io/longtail-keywords/maintenance-cycle/) |
