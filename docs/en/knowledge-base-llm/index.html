@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Connect an internal knowledge base to a large language model</title>
+  <meta name="description" content="Connecting a knowledge base to a language model means retrieving passages the person may read, then answering only from those passages, with a link back to the page.">
+  <link rel="canonical" href="https://fujiezee.github.io/longtail-keywords/en/knowledge-base-llm/">
+  <link rel="alternate" hreflang="en" href="https://fujiezee.github.io/longtail-keywords/en/knowledge-base-llm/">
+  <link rel="alternate" hreflang="zh-CN" href="https://fujiezee.github.io/longtail-keywords/knowledge-base-llm/">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <main>
+    <p class="back"><a href="../">All</a> · <a href="../../knowledge-base-llm/">中文</a></p>
+    <article>
+      <h1>Connect an internal knowledge base to a large language model</h1>
+      <p>Connect them in this order: retrieve the passages this person is allowed to read, then let the model phrase an answer from those passages, with a link to the page. If you hand the model the whole library and skip retrieval, it answers your policy with something it saw in training.</p>
+      <h2>Stop when retrieval is empty</h2>
+      <p>If nothing matches, say so, or name who to ask. Do not let the model fill in “standard practice.” Your rule is often different, and the invented line cannot be checked.</p>
+      <h2>The source page comes with the sentence</h2>
+      <p>People need to open the policy or the record. A paraphrase with no link cannot be disputed. If the expired copy and the current copy are both indexed, the old one will surface. Keep one current copy.</p>
+      <h2>You can change the model later</h2>
+      <p>The documents, the permissions, and the ten test questions are the asset. The model can be replaced. Replacing the model while the library is empty leaves the connection empty.</p>
+      <p>See <a href="https://doc.duaer.com/guides/ai-assistant-company-documents/">build an AI assistant on company documents</a>.</p>
+    </article>
+  </main>
+</body>
+</html>

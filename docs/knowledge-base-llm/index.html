@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>内部知识库怎么接大模型</title>
+  <meta name="description" content="内部知识库接大模型，是提问时先取出员工有权看的原文，再让模型根据这些原文回答，并链回那一页。没有检索到原文就不要回答。">
+  <link rel="canonical" href="https://fujiezee.github.io/longtail-keywords/knowledge-base-llm/">
+  <link rel="alternate" hreflang="zh-CN" href="https://fujiezee.github.io/longtail-keywords/knowledge-base-llm/">
+  <link rel="alternate" hreflang="en" href="https://fujiezee.github.io/longtail-keywords/en/knowledge-base-llm/">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main>
+    <p class="back"><a href="../">全部</a> · <a href="../en/knowledge-base-llm/">English</a></p>
+    <article>
+      <h1>内部知识库怎么接大模型</h1>
+      <p>内部知识库接大模型，顺序是：先按这个人的权限取出相关原文，再把这些原文交给模型组织答案，答案旁边链回那一页。把整库直接丢给模型、不检索，它会用训练里见过的泛泛说法来答本公司的制度。</p>
+      <h2>检索不到就停</h2>
+      <p>没有匹配的段落，就说没有找到，或指出该问谁。不要让模型「根据一般做法」补全。公司制度往往和一般做法不一样，补出来的那句无法核对。</p>
+      <h2>原文要比模型的话先出现</h2>
+      <p>员工要能点开制度或记录的原页。只给一段改写、没有链接，错了也无法对。知识库里过期版和现行版同时在，检索会把旧的送上去。现行版只留一份。</p>
+      <h2>换模型不必重做库</h2>
+      <p>文档、权限、那十个验收问题是资产。模型可以换。先换模型、文档还是空的，接上了也还是空的。</p>
+      <p>见 <a href="https://doc.duaer.com/zh/guides/ai-assistant-company-documents/">企业知识库 AI 问答怎么搭建</a>。</p>
+    </article>
+  </main>
+</body>
+</html>
