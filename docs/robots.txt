@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fujiezee.github.io/longtail-keywords/sitemap.xml
