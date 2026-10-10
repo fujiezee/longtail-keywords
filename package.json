@@ -1,0 +1,22 @@
+{
+  "name": "longtail-keywords",
+  "version": "0.1.0",
+  "description": "Find long-tail keywords from Google, Baidu, and DuckDuckGo suggestions. 从种子词挖长尾词。",
+  "type": "module",
+  "bin": {
+    "longtail": "./bin/longtail.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "catalog": "node bin/longtail.mjs --seeds seeds.txt --out ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fujiezee/longtail-keywords.git"
+  },
+  "license": "MIT",
+  "homepage": "https://www.duaer.com"
+}

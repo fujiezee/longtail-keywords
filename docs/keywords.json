@@ -1,0 +1,2467 @@
+{
+  "generated": "2026-10-10",
+  "seeds": [
+    {
+      "seed": "long tail keywords",
+      "queries": [
+        "long tail keywords",
+        "long tail keywords how to",
+        "how to long tail keywords",
+        "long tail keywords what is",
+        "what is long tail keywords",
+        "long tail keywords examples",
+        "examples long tail keywords",
+        "long tail keywords vs",
+        "vs long tail keywords",
+        "long tail keywords alternative",
+        "alternative long tail keywords",
+        "long tail keywords tool"
+      ],
+      "keywords": [
+        {
+          "text": "long tail keywords vs short tail keywords",
+          "engines": [
+            "duckduckgo",
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "long tail vs short tail keywords examples",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "long tail keywords vs short tail",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "long tail vs short tail keywords",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "short tail vs long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "fat head vs long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "short vs long tail keywords",
+          "engines": [
+            "duckduckgo",
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "what are long tail keywords and why are they important",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is long tail keywords in digital marketing",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is short tail and long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to use long tail keywords in content",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to find long tail keywords semrush",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to use long tail keywords on etsy",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to find long tail keywords free",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is meant by long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to research long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is long tail keyword example",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is long tail keywords in seo",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to create long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to search long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is long tail keyword search",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to find long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to make long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to use long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is long tail keywords",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "fiverr autocomplete long tail keyword tool",
+          "engines": [
+            "google"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keyword research tool free",
+          "engines": [
+            "google"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keyword generator tool",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keywords examples free",
+          "engines": [
+            "google"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keyword research tool",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keyword search tool",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keywords tool free",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "free long tail keyword tool",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keyword tool free",
+          "engines": [
+            "google"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "seo long tail keywords tool",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "long tail keywords tool",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "short tail and long tail keywords examples",
+          "engines": [
+            "google"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "what are long tail keywords examples",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "long tail keywords seo examples",
+          "engines": [
+            "google"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "seo long tail keywords examples",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "long tail keywords examples",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "long-tail keywords examples",
+          "engines": [
+            "google"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "example long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "long tail keywords and short tail keywords",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords are search queries with",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "short tail keywords and long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords are more specific",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "short tail and long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "what does long tail keywords mean",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail and short tail keyword",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords are quizlet",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords are usually",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "single item long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "including long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords generator",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "short and long tail keywords",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "identify long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "what are long tail keywords",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords meaning",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "google long tail keywords",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords finder",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords in seo",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords seomoz",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords etsy",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keyword etsy",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords are",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "long tail keywords seo",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        }
+      ]
+    },
+    {
+      "seed": "长尾词",
+      "queries": [
+        "长尾词",
+        "长尾词怎么做",
+        "长尾词是什么",
+        "长尾词教程",
+        "长尾词工具",
+        "长尾词免费",
+        "长尾词模板",
+        "长尾词区别",
+        "长尾词替代",
+        "长尾词哪个好",
+        "长尾词多少钱"
+      ],
+      "keywords": [
+        {
+          "text": "长尾词和关键词的区别",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "长尾词和核心词哪个好",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "长尾词是什么意思搜索",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词怎么用才有效",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么案例",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么词性",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么分析",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么概念",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么技巧",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么意思",
+          "engines": [
+            "baidu",
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么优势",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么作用",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词怎么做英文",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词怎么做英语",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么词",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词是什么",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词怎么做",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "长尾词挖掘的免费下载方式",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘长尾词工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词关键词挖掘工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词挖掘免费无限制",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词挖掘工具网站",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词挖掘免费工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词排名工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词生成工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词挖掘工具",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词工具",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词举例说明20个",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "长尾词举例",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "长尾词的例子10个",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词越刷越没展现",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词关键词挖掘",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词排名的方法",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词用广泛匹配",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "什么叫做长尾词",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词查询网站",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词关键搜索",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词什么意思",
+          "engines": [
+            "duckduckgo",
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词是啥意思",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "什么叫长尾词",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "什么是长尾词",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词seo",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词案例",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词策略",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词快速",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词深挖",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词生成",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词挖掘",
+          "engines": [
+            "baidu",
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词效果",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        }
+      ]
+    },
+    {
+      "seed": "关键词挖掘",
+      "queries": [
+        "关键词挖掘",
+        "关键词挖掘怎么做",
+        "关键词挖掘是什么",
+        "关键词挖掘教程",
+        "关键词挖掘工具",
+        "关键词挖掘免费",
+        "关键词挖掘模板",
+        "关键词挖掘区别",
+        "关键词挖掘替代",
+        "关键词挖掘哪个好",
+        "关键词挖掘多少钱"
+      ],
+      "keywords": [
+        {
+          "text": "关键词挖掘替代词的方法",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "关键词挖掘替代方案",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "关键词挖掘替代词",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "关键词挖掘怎么做出来的",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "关键词挖掘流程是什么",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "关键词挖掘模板怎么写",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "关键词挖掘是什么意思",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "关键词挖掘怎么做的",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "关键词挖掘怎么做好",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "关键词挖掘工具长尾关键词挖掘爱站网",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "常用的关键词挖掘的工具有哪些",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具爱站网官方",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具的使用方法",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具100个",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具站长工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘多少钱一个",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具爱网站",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具爱站网",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具有哪些",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘长尾词工具",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "长尾词关键词挖掘工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘查询工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具爱网",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具爱站",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具免费",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具使用",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具推荐",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具网站",
+          "engines": [
+            "duckduckgo",
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘免费工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘站长工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "熊猫关键词挖掘工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具站",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘工具",
+          "engines": [
+            "google",
+            "duckduckgo",
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "关键词挖掘教程pdf",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "关键词挖掘教程视频",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "关键词挖掘教程图片",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "关键词挖掘模板图片",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "关键词挖掘模板下载",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "关键词挖掘的方法有哪些",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘video",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "爱站网站关键词挖掘",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘 爱站网",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘实战指南",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘的流程",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘老域名",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘api",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "长尾词关键词挖掘",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘方法",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘技巧",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘网站",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "关键词挖掘词",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        }
+      ]
+    },
+    {
+      "seed": "企业知识库",
+      "queries": [
+        "企业知识库",
+        "企业知识库怎么做",
+        "企业知识库是什么",
+        "企业知识库教程",
+        "企业知识库工具",
+        "企业知识库免费",
+        "企业知识库模板",
+        "企业知识库区别",
+        "企业知识库替代",
+        "企业知识库哪个好",
+        "企业知识库多少钱"
+      ],
+      "keywords": [
+        {
+          "text": "企业知识库哪个好一点",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "企业知识库哪个好用",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "企业知识库替代方案",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "企业知识库替代工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "企业知识库是什么意思啊",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业知识库工具是什么",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业知识库是什么东西",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业知识库如何搭建",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业知识库怎么做的",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业知识库是什么",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业知识库工具包括哪些",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库工具本地部署",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库模板免费下载",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库多少钱一个",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库多少钱一套",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库工具有哪些",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "免费企业知识库源码",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库工具包括",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库管理工具",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库管理软件",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库工具",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库软件",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业知识库教程电子版",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业知识库教程pdf",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业知识库搭建教程",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业知识库模板图片",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业知识库模板下载",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业知识库应用中,RAG的核心作用是",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库 github",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库包括哪些内容",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库建设白皮书",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库本地部署",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库搭建方案",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库管理平台",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库解决方案",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库开源项目",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库问答系统",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库 开源",
+          "engines": [
+            "baidu",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库 ai",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库rag",
+          "engines": [
+            "google",
+            "duckduckgo",
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库搭建",
+          "engines": [
+            "baidu",
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库构建",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库开源",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业知识库系统",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        }
+      ]
+    },
+    {
+      "seed": "glean alternative",
+      "queries": [
+        "glean alternative",
+        "glean alternative how to",
+        "how to glean alternative",
+        "glean alternative what is",
+        "what is glean alternative",
+        "glean alternative examples",
+        "examples glean alternative",
+        "glean alternative vs",
+        "vs glean alternative",
+        "glean alternative alternative",
+        "alternative glean alternative",
+        "glean alternative tool"
+      ],
+      "keywords": [
+        {
+          "text": "glean alternatives open source",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "glean alternatives reddit",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "best glean alternatives",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "glean alternatives free",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "onyx glean alternative",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "glean ai alternatives",
+          "engines": [
+            "google"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "glean alternatives",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "what is another word for glean",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to use microsoft glean",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to download glean app",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is glean application",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is glean now called",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to use glean agent",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is glean software",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "glean app what is it",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "glean what is it",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to use glean",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "is glean a google product",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "does glean have an app",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "glean app for windows",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "how does glean work",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        }
+      ]
+    },
+    {
+      "seed": "员工找不到公司资料",
+      "queries": [
+        "员工找不到公司资料",
+        "员工找不到公司资料怎么做",
+        "员工找不到公司资料是什么",
+        "员工找不到公司资料教程",
+        "员工找不到公司资料工具",
+        "员工找不到公司资料免费",
+        "员工找不到公司资料模板",
+        "员工找不到公司资料区别",
+        "员工找不到公司资料替代",
+        "员工找不到公司资料哪个好",
+        "员工找不到公司资料多少钱"
+      ],
+      "keywords": [
+        {
+          "text": "员工找不到公司资料怎么做劳动仲裁",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料怎么做账务处理",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料工具怎么处理",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料工具怎么解决",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料教程怎么处理",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料免费怎么处理",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料模板怎么处理",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料工具怎么办",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料教程怎么办",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料模板违法吗",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料模板怎么办",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料是什么行为",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料是什么意思",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料是什么原因",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料怎么做工作",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料怎么处理",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料违法吗",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料怎么办",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "员工找不到公司资料多少钱可以报警",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "员工找不到公司资料多少钱算违法",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        }
+      ]
+    },
+    {
+      "seed": "pdf invoice to excel",
+      "queries": [
+        "pdf invoice to excel",
+        "pdf invoice to excel how to",
+        "how to pdf invoice to excel",
+        "pdf invoice to excel what is",
+        "what is pdf invoice to excel",
+        "pdf invoice to excel examples",
+        "examples pdf invoice to excel",
+        "pdf invoice to excel vs",
+        "vs pdf invoice to excel",
+        "pdf invoice to excel alternative",
+        "alternative pdf invoice to excel",
+        "pdf invoice to excel tool"
+      ],
+      "keywords": [
+        {
+          "text": "i love pdf pdf to excel alternative",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "comparison"
+        },
+        {
+          "text": "how to convert excel invoice template to pdf format",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to extract invoice data from pdf to excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to convert pdf invoice into excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to convert pdf invoice to excel",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to make pdf invoice using excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to open a pdf in excel for free",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to save invoice as pdf in excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to attach pdf invoice in excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to add pdf invoice to excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to convert invoice to pdf",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to split invoices in pdf",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "how to make a pdf invoice",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "what is a pdf invoice",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "invoice format in excel pdf free download",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "convert pdf invoice to excel free",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "free example of an invoice pdf",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "free pdf invoice examples",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "pdf invoice to excel free",
+          "engines": [
+            "google"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "blank invoice template excel pdf",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "pdf invoice template excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "extract data from pdf invoice to excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "convert pdf invoice to excel online",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "pdf invoice to excel power automate",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "make invoice pdf to editable excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "pdf invoice to excel converter",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "create a invoice pdf in excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "convert pdf invoice to excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "extract pdf invoice to excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "import pdf invoice to excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "invoice format pdf in excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "pdf invoice to excel python",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "invoice pdf to excel",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "pdf bill to excel",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        }
+      ]
+    },
+    {
+      "seed": "企业微信机器人",
+      "queries": [
+        "企业微信机器人",
+        "企业微信机器人怎么做",
+        "企业微信机器人是什么",
+        "企业微信机器人教程",
+        "企业微信机器人工具",
+        "企业微信机器人免费",
+        "企业微信机器人模板",
+        "企业微信机器人区别",
+        "企业微信机器人替代",
+        "企业微信机器人哪个好",
+        "企业微信机器人多少钱"
+      ],
+      "keywords": [
+        {
+          "text": "企业微信机器人webhook怎么弄",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人可以拉进普通群吗",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人工具怎么使用",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人是什么意思啊",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人工具怎么用",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人是什么东西",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人怎么发消息",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人怎么创建",
+          "engines": [
+            "google"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人怎么设置",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人怎么添加",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人免费吗",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人怎么用",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "question"
+        },
+        {
+          "text": "企业微信机器人多少钱一个",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业微信机器人工具在哪",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业微信机器人免费",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "commercial"
+        },
+        {
+          "text": "企业微信机器人配置教程",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业微信机器人教程",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业微信机器人模板",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "template"
+        },
+        {
+          "text": "企业微信机器人webhook地址",
+          "engines": [
+            "google",
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人能否对接外部系统",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人关键词设置窍门",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人webhook",
+          "engines": [
+            "google",
+            "duckduckgo",
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人使用方法视频",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人github",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人有什么功能",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人api接口",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人发送消息",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人发信程序",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人接收消息",
+          "engines": [
+            "google"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人设计方案",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人有什么用",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人自动推送",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人能干嘛",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人api",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人创建",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人官方",
+          "engines": [
+            "baidu"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人开发",
+          "engines": [
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人配置",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        },
+        {
+          "text": "企业微信机器人文档",
+          "engines": [
+            "google",
+            "duckduckgo"
+          ],
+          "intent": "other"
+        }
+      ]
+    }
+  ]
+}
