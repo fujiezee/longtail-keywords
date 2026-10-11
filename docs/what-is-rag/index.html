@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RAG 知识库是什么</title>
+  <meta name="description" content="RAG 知识库是提问时先从公司文档里取出相关原文，再让模型只根据这些原文回答。没有检索到，就不要编。">
+  <link rel="canonical" href="https://fujiezee.github.io/longtail-keywords/what-is-rag/">
+  <link rel="alternate" hreflang="zh-CN" href="https://fujiezee.github.io/longtail-keywords/what-is-rag/">
+  <link rel="alternate" hreflang="en" href="https://fujiezee.github.io/longtail-keywords/en/what-is-rag/">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <main>
+    <p class="back"><a href="../">全部</a> · <a href="../en/what-is-rag/">English</a></p>
+    <article>
+      <h1>RAG 知识库是什么</h1>
+      <p>RAG 知识库是：有人提问时，先在公司文档里找出这个人能看的相关段落，再让模型只根据这些段落组织答案，并链回原页。RAG 是检索再加上生成，不是把模型训练成「懂你们公司」。</p>
+      <h2>和直接问模型的差别</h2>
+      <p>直接问，模型用训练里见过的泛泛说法。检索到你们的手册，它才有可能说出你们的年假规则。没检索到，就应该停，而不是用常识填上。</p>
+      <h2>企业里要多加的两件事</h2>
+      <p>检索范围按这个人的权限收，不是整库都给他。现行版和过期版不要同时被检到。做不到这两件，RAG 也会很有把握地答错。</p>
+      <p>见 <a href="https://doc.duaer.com/zh/guides/ai-answers-with-citations/">AI 回答怎么附出处、不胡编</a>。</p>
+    </article>
+  </main>
+</body>
+</html>

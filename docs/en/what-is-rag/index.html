@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What is a RAG knowledge base?</title>
+  <meta name="description" content="A RAG knowledge base retrieves passages from company documents that this person may read, then the model answers only from those passages.">
+  <link rel="canonical" href="https://fujiezee.github.io/longtail-keywords/en/what-is-rag/">
+  <link rel="alternate" hreflang="en" href="https://fujiezee.github.io/longtail-keywords/en/what-is-rag/">
+  <link rel="alternate" hreflang="zh-CN" href="https://fujiezee.github.io/longtail-keywords/what-is-rag/">
+  <link rel="stylesheet" href="../../style.css">
+</head>
+<body>
+  <main>
+    <p class="back"><a href="../">All</a> · <a href="../../what-is-rag/">中文</a></p>
+    <article>
+      <h1>What is a RAG knowledge base?</h1>
+      <p>When someone asks, the system first finds passages in company documents that this person may read, then the model writes an answer only from those passages and links the page. RAG is retrieval plus generation. It does not train the model to “know your company.”</p>
+      <h2>How that differs from asking the model directly</h2>
+      <p>Asked directly, the model uses general text it saw in training. After your handbook is retrieved, it can state your leave rule. If nothing is retrieved, it should stop instead of filling the gap with common sense.</p>
+      <h2>Two extra rules inside a company</h2>
+      <p>Retrieval is limited to what this person may open, not the whole library. The current copy and the expired copy are not both searchable. Without those two, RAG still answers wrongly with confidence.</p>
+      <p>See <a href="https://doc.duaer.com/guides/ai-answers-with-citations/">AI answers with citations</a>.</p>
+    </article>
+  </main>
+</body>
+</html>
